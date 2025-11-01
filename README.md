@@ -41,12 +41,6 @@ A comprehensive and adaptable personal finance tool designed for anyone who want
 - Colorful visual charts for easy analysis.
 - Works offline. Excel required.
 
-## Demo
-![Expense Tracker Demo](demo_screenshot.png) <!-- Add a screenshot if you'd like -->
-
-## License
-This project is released under the MIT License.
-
 ## Contribution
 Feel free to fork, edit, and suggest improvements. Submit issues or pull requests to help improve this open-source tracker!
 
